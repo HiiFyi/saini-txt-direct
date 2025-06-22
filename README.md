@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
 
-***Welcome to DRM bot made by @nikhil.saini.khe (Instagram)***
+***Welcome to DRM bot made by @hii_fyu (Instagram)***
 
 **Don't Remove Credit tag**
 **Note:** CP DRM SUPPORTED MINIMUM QUALITY 360
@@ -34,8 +34,7 @@ https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO
 
 
 Bot username
-@saini_contact_bot
-@saini_file_store_bot
+@ile_store_bot
 
 
 Repo 
